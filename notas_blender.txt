@@ -1,2 +1,13 @@
 NOTAS BLENDER:
 
+Para exportar:
+Seleccionar objeto a exportar. Después andar a file -> export -> fbx
+Andas de apretar el botón exportar, asegurarse de:
+	Path Mode = Copy + (el botón de la derecha seleccionado en azúl)
+	Limit to Selected Objects = True
+	Object Types solo mesh
+	Apply Transform = True
+Requisitos para exportar Blender:
+1- Nombre descriptivo
+2- Control + A -> All transform
+3- El objeto debe estar cerca del vector (0,0)
